@@ -10,7 +10,7 @@ header
 
 header .logo
 {
-    background: url('https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/logo.png') no-repeat center;
+    background: url("../images/logo.png") no-repeat center;
     width: 142px;
     height: 60px;
     padding-left: 20px;
